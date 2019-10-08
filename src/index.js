@@ -1,6 +1,7 @@
+#!/usr/bin/env node
 const inquirer = require("inquirer");
-var path = require("path");
-var ncp = require("ncp").ncp;
+const path = require("path");
+const ncp = require("ncp").ncp;
 
 const starterFiles = {
   typescript: "typescript",
