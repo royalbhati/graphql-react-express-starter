@@ -1,0 +1,30 @@
+{
+  "name": "react-express-graphql-starter",
+  "version": "0.0.1",
+  "description": "Quickly setup a starter project for react-express graphql project",
+  "main": "src/index.js",
+  "bin": "src/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "graphqpl-starter",
+    "react-graphql",
+    "react-express-graphql",
+    "mongo-graphql",
+    "graphql"
+  ],
+  "author": "Royal Bhati",
+  "dependencies": {
+    "inquirer": "^7.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royalbhati/graphql-react-express-starter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/royalbhati/graphql-react-express-starter.git/issues"
+  },
+  "homepage": "https://github.com/royalbhati/graphql-react-express-starter.git#readme"
+}
